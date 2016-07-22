@@ -40,9 +40,6 @@ use Doctrine\ORM\Tools\SchemaTool;
 use Nelmio\Alice\Fixtures;
 use Liip\FunctionalTestBundle\Utils\HttpAssertions;
 
-use Liip\FunctionalTestBundle\Database\TestDatabaseCache;
-use Liip\FunctionalTestBundle\Database\TestDatabasePreparator;
-
 /**
  * @author Lea Haensenberger
  * @author Lukas Kahwe Smith <smith@pooteeweet.org>
